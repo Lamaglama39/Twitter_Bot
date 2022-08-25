@@ -1,0 +1,9 @@
+#Lambdaレイヤー
+'arn:aws:lambda:ap-northeast-1:770693421928:layer:Klayers-python38-tweepy:1'
+
+#EventBridge スケジュールパターン
+'通常のレート'
+
+#EventBridge レート式
+#3時間に一回実行
+'3 hour'
